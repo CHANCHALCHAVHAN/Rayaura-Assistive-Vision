@@ -1,2 +1,11 @@
-# Rayaura-Assistive-Vision
-Rayaura is an AI-integrated smart spectacle designed to assist visually impaired individuals and drivers by providing real-time object detection, distance measurement, and voice guidance. Equipped with ultrasonic sensors, AI cameras, edge processing, and IoT connectivity, Rayaura enhances mobility and safety for its users.
+Rayaura - AI-Powered Smart Vision Assist
+🔗 Category: AI | IoT | Smart Assistive Tech
+📌 Features:
+✅ Real-time object detection (for visually impaired users)
+✅ Distance estimation & collision alerts (for drivers)
+✅ AI-powered voice assistant
+✅ Mobile app integration for alerts
+
+📌 Demo Videos:
+🎥 Driving Assistance Video – Detects front car distance & collision time.
+🎥 Object Detection Video – Identifies objects (scissors, mouse, glass).
